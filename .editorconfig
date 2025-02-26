@@ -1,3 +1,5 @@
+# EditorConfig 是一种文件格式和一组文本编辑器插件，用于在不同的编辑器和 IDE 之间保持一致的编码风格。
+
 [*.{js,jsx,mjs,cjs,ts,tsx,mts,cts,vue}]
 charset = utf-8
 indent_size = 2
